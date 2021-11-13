@@ -1,0 +1,65 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.7604876,46.852825 ]
+    },
+    "properties": {
+    "Name":"Mount Rainier",
+    "Height":"14,409 feet",
+    "Features":"Summit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1944,46.1912 ]
+    },
+    "properties": {
+    "Name":"Mount St. Helens",
+    "Height":"8,356 feet",
+    "Features":"Summit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4906384,46.202621 ]
+    },
+    "properties": {
+    "Name":"Mount Adams",
+    "Height":"12,287 feet ",
+    "Features":"Summit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4906384,48.7773426 ]
+    },
+    "properties": {
+    "Name":"Mount Baker",
+    "Height":"10,420 feet",
+    "Features":"Summit"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4906384,48.1112273 ]
+    },
+    "properties": {
+    "Name":"Glacier Peak",
+    "Height":"10,433 feet",
+    "Features":"Summit"
+    }
+  }
+]
+}
